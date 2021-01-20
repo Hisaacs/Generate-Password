@@ -4,6 +4,10 @@ A randomly generated password where users can select any combination of numbers,
 
 Password requirements to be a minimum of 8 and a maximum of 128 chracters
 
+Deployment: https://hisaacs.github.io/Generate-Password/
+
+GitHub: https://github.com/Hisaacs/Generate-Password
+
 01. Password Generator Home Screen
 
 ![GP_01](https://user-images.githubusercontent.com/19741669/100219594-2a17ee80-2f51-11eb-855f-f597cab312a8.PNG)
